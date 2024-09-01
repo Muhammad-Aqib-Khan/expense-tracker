@@ -1,3 +1,8 @@
+I build expense tracker to manage my expense and it will only works in following condition 
+first your have a firebase database and 
+second you have installed node module installed on your computer
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
